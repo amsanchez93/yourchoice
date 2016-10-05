@@ -1,0 +1,6 @@
+
+.ui.borderless.bottommenu.menu {
+  box-shadow: none;
+  padding-top: 100px;
+  border-bottom: none;
+}
